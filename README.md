@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Veanty (^^)/
-- 👀 I’m interested in programming (Frontend) and gaming
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on learning to code
+- 👀 I’m interested in programming (mainly Frontend)
+- 🌱 I'm currently learning Web Development (Fullstack)
 - 📫 How to reach me: 
    - Discord: Uwusia#5033
  
