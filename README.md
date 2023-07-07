@@ -1,4 +1,4 @@
-Discord: Uwusia#5033
+- Discord: Uwusia#5033
  ![Codewars](https://github.r2v.ch/codewars?user=Veanty)
 
 <!---
