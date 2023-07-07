@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Veanty (^^)/
-- 👀 I’m interested in programming (mainly Frontend)
-- 🌱 I'm currently learning Web Development (Fullstack)
-- 📫 How to reach me: 
-   - Discord: Uwusia#5033
- 
+Discord: Uwusia#5033
  ![Codewars](https://github.r2v.ch/codewars?user=Veanty)
 
 <!---
